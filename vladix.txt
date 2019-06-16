@@ -1,0 +1,1 @@
+This is a simple test to create a file and commit it to remote repository.
